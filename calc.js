@@ -150,7 +150,7 @@ class Calculator extends React.Component {
         </div>
         <div className="author"> Designed and Coded By <br />
           <a target="_blank" href="https://goo.gl/6NNLMG"> 
-            Peter Weinberg
+            Vincent Tsai
           </a>
         </div>
       </div>
